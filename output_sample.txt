@@ -1,0 +1,75 @@
+```markdown
+# Retro T-shirt Website Launch Plan
+
+## 1. Value Proposition (One Sentence)
+Discover unique, high-quality retro T-shirts that let you wear your nostalgia and stand out from the crowd.
+
+---
+
+## 2. Ideal Customer Profiles (ICP)
+- **Vintage Enthusiasts:** Ages 25-45, passionate about retro culture, music, and fashion, seeking authentic statement pieces.
+- **Gift Shoppers:** Ages 18-40, looking for memorable, personal gifts for friends or family who love pop culture or retro aesthetics.
+- **Trendsetters:** Ages 16-30, active on social media, always on the lookout for distinctive apparel to express individuality and spark conversation.
+
+---
+
+## 3. Core Message
+Wear your story. Our retro T-shirts revive iconic designs and timeless vibes—crafted for those who want to make nostalgia part of their everyday style.
+
+---
+
+## 4. Marketing Channels & Rationale
+
+1. **Instagram & TikTok**
+   - *Rationale:* Highly visual platforms ideal for showcasing retro designs, leveraging influencers, and engaging trendsetters.
+2. **Facebook Groups & Marketplace**
+   - *Rationale:* Targeted communities of vintage lovers and shoppers; Marketplace enables direct sales and local discovery.
+3. **Email Marketing**
+   - *Rationale:* Builds relationships, drives repeat purchases, and delivers exclusive launch offers to subscribers.
+4. **Reddit (Niche Subreddits)**
+   - *Rationale:* Engaged communities (e.g., r/vintagefashion, r/nostalgia) for authentic conversations and organic buzz.
+5. **Google Ads (Search & Shopping)**
+   - *Rationale:* Captures high-intent shoppers searching for retro T-shirts and related gifts.
+
+---
+
+## 5. Two-Week Content Calendar
+
+| Day  | Channel(s)         | Content Theme                | Description/Action                                                |
+|------|--------------------|------------------------------|-------------------------------------------------------------------|
+| 1    | Instagram, TikTok  | Launch Teaser                | Short video: "Retro is back! Sneak peek at our exclusive designs."|
+| 2    | Email              | Early Access                 | Send pre-launch invite to subscribers with a secret discount.     |
+| 3    | Facebook Groups    | Nostalgia Poll               | Post: "Which retro era do you love most? Vote & win a T-shirt!"   |
+| 4    | Instagram          | Design Spotlight             | Carousel: Showcase 3 top T-shirt designs with stories behind them.|
+| 5    | Reddit             | AMA                          | Host "Ask Me Anything" about retro fashion and our launch.        |
+| 6    | TikTok             | Outfit Challenge             | Launch #RetroTeeChallenge: Users style their favorite retro look. |
+| 7    | Google Ads         | Launch Campaign              | Activate search & shopping ads for "retro t-shirts" keywords.     |
+| 8    | Email              | Social Proof                 | Share early customer reviews/testimonials.                        |
+| 9    | Instagram, TikTok  | Behind the Scenes            | BTS video: How we source and print our retro tees.                |
+| 10   | Facebook Groups    | Flash Giveaway               | "First 10 buyers today get a free sticker pack!"                  |
+| 11   | Reddit             | Launch Announcement          | Share official launch post + exclusive subreddit discount.        |
+| 12   | Instagram          | Influencer Collab            | Partner post: Influencer styles our tee, tags shop.               |
+| 13   | Email              | Last Chance Offer            | "Last day for launch discount—shop now!"                          |
+| 14   | All Channels       | Thank You & UGC Call         | Thank customers, invite them to share photos for a feature.       |
+
+---
+
+## 6. Simple KPI Targets
+
+- **Website Visits:** 2,000 unique visitors in first 2 weeks
+- **Email Subscribers:** +300 new signups by Day 14
+- **Conversion Rate:** 3% sitewide during launch period
+- **Instagram Followers:** +500 net new followers
+- **First 2 Weeks Sales:** 60 T-shirts sold
+
+---
+
+## 7. Scrappy Experiment
+
+**Retro Mystery Box Flash Sale:**  
+On Day 10, offer a limited "Retro Mystery Box"—a surprise T-shirt plus vintage stickers—for 20 buyers only. Promote via Instagram Stories, Facebook Groups, and email. Track engagement, sales velocity, and post-purchase social shares to gauge appetite for bundles and exclusives.
+
+---
+
+**Ready to execute! Assign owners, schedule content, and launch nostalgia into the wild.**
+```
