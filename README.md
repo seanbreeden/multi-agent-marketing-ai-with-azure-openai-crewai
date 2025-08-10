@@ -29,7 +29,7 @@ Blog post: https://www.seanbreeden.com/blog/multi-agent-marketing-ai-with-azure-
 
 **Using Azure OpenAI + CrewAI (via LiteLLM)**
 
-AI-Powered Multi-Agent Marketing Planner that simulates a two-person marketing team—CEO (strategy) + Marketing Lead (execution) to generate a complete, execution-ready 7-step product launch plan from a single product name. Built with CrewAI (multi-agent orchestration) and Azure OpenAI (enterprise LLM) via LiteLLM's Azure adapter.
+AI-Powered Multi-Agent Marketing Planner that simulates a two-person marketing team: CEO (strategy) + Marketing Lead (execution) to generate a complete, execution-ready 7-step product launch plan from a single product name. Built with CrewAI (multi-agent orchestration) and Azure OpenAI (enterprise LLM) via LiteLLM's Azure adapter.
 
 ## Features
 
